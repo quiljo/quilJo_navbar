@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/quilJo_navbar/static/css/main.2a8da1af.css",
+    "main.js": "/quilJo_navbar/static/js/main.847647e1.js",
+    "static/js/453.c5fdf8b6.chunk.js": "/quilJo_navbar/static/js/453.c5fdf8b6.chunk.js",
+    "static/media/jo1.jpg": "/quilJo_navbar/static/media/jo1.0eb2099d65a704c7eb65.jpg",
+    "static/media/jo2.jpg": "/quilJo_navbar/static/media/jo2.9ff535c96cdc5df2de7e.jpg",
+    "static/media/me (2).jpg": "/quilJo_navbar/static/media/me (2).28ea7f25e0cfe9afffa6.jpg",
+    "static/media/jo10.jpg": "/quilJo_navbar/static/media/jo10.470d9fb0abe49ea6c77c.jpg",
+    "static/media/jojo.jpg": "/quilJo_navbar/static/media/jojo.ff9ffbf1d5595ca807f2.jpg",
+    "static/media/jojojo.jpg": "/quilJo_navbar/static/media/jojojo.ac2259d3d2ae116799e3.jpg",
+    "static/media/jo9.jpg": "/quilJo_navbar/static/media/jo9.e1beedd895c154f2dd66.jpg",
+    "static/media/jo4.jpg": "/quilJo_navbar/static/media/jo4.1d9ec45b76b5e340d017.jpg",
+    "static/media/jo5.jpg": "/quilJo_navbar/static/media/jo5.d524f0a264d4cc5f1dbf.jpg",
+    "static/media/jo13.jpg": "/quilJo_navbar/static/media/jo13.96dd0df4d5fcd682e2fd.jpg",
+    "static/media/jo6.jpg": "/quilJo_navbar/static/media/jo6.74fe174225eee49fa41f.jpg",
+    "static/media/jo11.jpg": "/quilJo_navbar/static/media/jo11.625d7164a19dba28be9d.jpg",
+    "index.html": "/quilJo_navbar/index.html",
+    "main.2a8da1af.css.map": "/quilJo_navbar/static/css/main.2a8da1af.css.map",
+    "main.847647e1.js.map": "/quilJo_navbar/static/js/main.847647e1.js.map",
+    "453.c5fdf8b6.chunk.js.map": "/quilJo_navbar/static/js/453.c5fdf8b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a8da1af.css",
+    "static/js/main.847647e1.js"
+  ]
+}
